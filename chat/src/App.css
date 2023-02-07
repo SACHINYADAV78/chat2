@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-aspect-ratio: 7/10) {
+  .joinContainer {
+
+    width: 100%;
+  }
+
+  .chatcontainer {
+    background-color: aliceblue;
+    height: 100% !important;
+    width: 100% !important;
+  }
+}
